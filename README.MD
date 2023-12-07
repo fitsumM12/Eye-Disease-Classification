@@ -1,6 +1,6 @@
-# DIABETIC RETINOPATHY SCREENING
+# EYE DISEASE CLASSIFICATITON
 
-Used a pre-trained EfficientNetB0 model
+Used a pre-trained model
 
 
 ## Data Preparation
